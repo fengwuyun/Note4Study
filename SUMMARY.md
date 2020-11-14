@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [DataMini](datamini.md)
-* [BigData](bigdata.md)
-* [Regex](regex.md)
+* [SQL](sql/README.md)
+  * [Engine](sql/engine.md)
+  * [KeyWords](sql/keywords.md)
+* [Mongo](mongo.md)
+* [MaxCompute](maxcompute.md)
 
