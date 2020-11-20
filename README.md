@@ -8,3 +8,5 @@
 
 大数据整体框架 ： [https://developer.aliyun.com/article/764737](https://developer.aliyun.com/article/764737)
 
+![](.gitbook/assets/da-shu-ju-kuang-jia-ti-xi-.png)
+
